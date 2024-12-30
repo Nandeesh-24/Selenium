@@ -18,6 +18,7 @@ public class CheckBoxSelect {
 
         Thread.sleep(2000);
 
+
         driver.quit();
     }
 }
